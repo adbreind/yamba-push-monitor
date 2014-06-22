@@ -1,0 +1,17 @@
+{
+  "name": "yamba-push-monitor",
+  "description": "Combo push server for Yamba 'student timeline' for Bootcamp class and active monitoring",
+  "main": "server.js",
+  "version": "0.1.0",
+  "author": {
+    "name": "Adam Breindel",
+	"email": "adbreind@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adbreind/yamba-push-monitor.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
